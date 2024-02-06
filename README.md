@@ -7,5 +7,5 @@
 
 
 ## My Programming Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Otmane Oubayhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oubayhe&show_icons=true&theme=radical)
 
