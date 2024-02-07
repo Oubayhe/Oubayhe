@@ -1,6 +1,5 @@
 # Hi, I'm Otmane OUBAYHE 
-![LinkedIn](./icons/linkedin.png)
-
+<img src="./icons/linkedin.png" width="45" height="45"> 
 ## About-me:
 
 🎓 Currently pursuing my master's degree in Computer Science
