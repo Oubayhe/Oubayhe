@@ -1,4 +1,5 @@
 # Hi, I'm Otmane OUBAYHE 
+![LinkedIn](./icons/linkedin.png)
 
 ## About-me:
 
