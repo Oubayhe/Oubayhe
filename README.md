@@ -1,5 +1,5 @@
 # Hi, I'm Otmane OUBAYHE 
-<a href="https://www.linkedin.com/in/otmane-oubayhe-284941262/"><img src="./icons/linkedin.png" width="55" height="55"> </a>
+<a href="https://www.linkedin.com/in/otmane-oubayhe-284941262/"><img src="./icons/linkedin.png" width="30" height="30"> </a>
 
 ## About-me:
 
