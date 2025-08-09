@@ -3,8 +3,6 @@
 
 ## About-me:
 
-🎓 Currently pursuing my master's degree in Computer Science
-
 💡 Seeking opportunities to contribute to innovative projects
 
 💻 Passionate about Software Engineering and Full-Stack Development
